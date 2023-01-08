@@ -1,4 +1,4 @@
-,case_number,year,type,country,activity,age,species_,mes,fatal,sex
+,case_number,year,type,country,activity,age,species,mes,fatal,sex
 0,2018.06.25,2018,Boating,usa,Paddling,57,White shark,Jun,N,F
 1,2018.06.03.a,2018,Unprovoked,brazil,Swimming,18,Tiger shark,Jun,Y,M
 2,2018.05.26.b,2018,Unprovoked,usa,Walking,15,"Bull shark, 6'",May,N,M
