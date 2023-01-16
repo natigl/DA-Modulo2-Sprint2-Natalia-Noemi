@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
 import soporte as sp
+import mysql.connector
 
 
 
 
-
-prueba = sp.prueba(5,4)
-print(prueba)
+carga = sp.Cargar("tiburones_py", "AlumnaAdalab")
+crear = carga.crear_bbdd(carga)
+print(crear)
