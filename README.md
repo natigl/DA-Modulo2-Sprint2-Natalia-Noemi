@@ -1,7 +1,45 @@
-En este repositorio vamos a encontrar los ejercicios resueltos correspondientes al sprint 2 del módulo 2 realizados por Natalia y Noemi.
+This repository contains exercises done in my bootcamp with my partner Noemí. It is divided into three folders:
 
-Estos ejercicios están relacionados con el análisis exploratorio de los datos, su limpieza y todo el proceso de extracción, transformación y carga de los mismos.
+1. EDA - Exploratory analysis of datasets
 
-Como podemos observar, está dividido en cuatro carpetas que engloban los procesos mencionados en la línea anterior. Dentro de cada carpeta encontraremos los archivos nombrados como su lección teórica correspondiente. 
+📖 LIBRARIES USED:
 
-En la carpeta de ficheros se encuentran los archivos en formato csv sobre los que hemos trabajado.
+- Pandas
+
+- Sidetable
+
+- Numpy
+
+- Seaborn
+
+- Matplotlib
+
+- Warnings
+
+2. Cleaning Data
+
+📖 LIBRARIES USED:
+
+- Sklearn
+
+- Numpy
+
+- Regex
+
+- Pandas 
+
+- Sidetable 
+
+3. ETL
+
+📖 LIBRARIES USED:
+
+- Requests
+
+- Ast
+
+- Pandas
+
+- Numpy 
+
+- Datetime
